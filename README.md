@@ -59,6 +59,15 @@ python main.py
 ### 📽️ Fullscreen Video Output
 ![Output](assets/images/output_screenshot.png)
 
+## ▶️ YouTube Demo
+
+📺 Watch the full demo here:  
+[![Watch on YouTube](https://img.youtube.com/vi/PlHhGbg4CCk/hqdefault.jpg)](https://youtu.be/PlHhGbg4CCk)
+
+> Demonstrating real-time hand detection using MediaPipe and OpenCV, with a futuristic PyQt5 interface and LinkedIn redirect!
+
+---
+
 
 ## 🌐 LinkedIn
 
